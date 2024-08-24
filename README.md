@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MoizQureshi1
 - 👀 I’m interested in AI, Metaverse and Web3.0
 - 🌱 I’m currently learning "Cloud Applied Generative AI Engineer".
-- 💞️ I’m looking to collaborate on AI. 
+- 💞️ I’m looking to collaborate on AI.
+- I'm front-end developer and study on GIAIC. 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
